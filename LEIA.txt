@@ -1,0 +1,10 @@
+- PASSO A PASSO - 
+
+- Jogar a pasta hospitais dentro do volume C:\
+- Abrir jupyter notebook
+- Abrir no browser
+- Ir no navegador de diretórios aonde se encontra baixada essa TDE
+- Clicar em arquivo extensão .ipynb
+- Executar as linhas de comando
+- Caso no final o matplotlib der erro, executar as 3 primeiras linhas novamente, para referência. E novamente o matploit.
+- Plot realizado com sucesso
